@@ -6,4 +6,6 @@ CVE-2012-1823,CVE-2021-2291.py file find out if the site is vulnurable for CVE-2
 
 use : python3 CVE-2012-1823,CVE-2021-2291.py 
 
+command whoami cd ls 
+
 tested on kali linux 
